@@ -1,0 +1,24 @@
+
+
+.div{
+    position: center;
+    background-color:lightgray;
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+.text {
+
+    text-align: center;
+
+}  
+
+.pic {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+   
+}
+
